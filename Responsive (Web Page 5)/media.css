@@ -1,0 +1,740 @@
+
+@media(max-width:980px)
+{
+
+    .main{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+     
+
+    }
+    .text{
+        width: 100%;
+        height: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+    .text h2{
+        font-size: 35px;
+    }
+    .parent{
+        display: flex;
+        flex-direction: column;
+    }
+    .child{
+        width: 80%;
+        height: 400px;
+    }
+    
+    .child1{
+        width: 80%;
+        height:auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        
+    }
+    .child1 h1{
+        font-size: 45px;
+        line-height: 50px;
+    }
+    .subsec2{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .chid3{
+        width: 60%;
+        height: auto;
+    }
+    .chid3 h1{
+        font-size:45px;
+        line-height:40px;
+    }
+    .chid3 p{
+        font-size: 20px;
+        line-height: normal;
+    }
+    .chid4{
+        width: 60%;
+        
+    }
+
+   /* .subbox2{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        /* margin-top:50%; 
+        height: auto;
+    }*/
+    .box10{
+        width: 50%;
+        
+    }
+    .box11{
+        width: 50%;
+        
+    }
+    .box12{
+        width: 50%;
+        
+    }
+    .container1{
+        font-size: 40px;
+    }
+    
+}
+@media(max-width:720px)
+{
+    .main{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+     
+
+    }
+    .text{
+        width: 100%;
+        height: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .text h2{
+        width: 100%;
+        height: 50px;
+        font-size: 25px;
+    }
+    .subtext{
+        width: 100%;
+        font-size: 20px;
+    }
+    .parent{
+        display: flex;
+        flex-direction: column;
+    }
+    .child{
+        width: 80%;
+        height: 400px;
+    }
+    
+    .child1{
+        width: 80%;
+        height:auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        
+    }
+    .child1 h1{
+        font-size: 45px;
+        line-height: 50px;
+    }
+    .subsec2{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .chid3{
+        width: 80%;
+        height: auto;
+    }
+    .chid3 h1{
+        font-size:45px;
+        line-height:40px;
+    }
+    .chid3 p{
+        font-size: 20px;
+        line-height: normal;
+    }
+    .chid4{
+        width: 80%;
+        
+    }
+    .text2{
+        width: 100%;
+        font-size: 20px;
+        margin-top: 90%;
+      }
+    .subbox{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        margin-top:70%;
+    }
+    .box{
+        width: 80%;
+        
+    }
+    .box2{
+        width: 80%;
+        
+    }
+    .box3{
+        width: 80%;
+        
+    }
+    .box4{
+        width: 80%;
+        
+    }
+    .text3{
+        width: 100%;
+        font-size: 20px;
+        margin-top: 140%;
+      }
+      /*  */
+      .subbox2{
+          display: flex;
+          flex-direction: column;
+          width: 80%;
+          margin-top:50%;
+      }
+      .box10{
+          width: 100%;
+          
+      }
+      .box11{
+          width: 100%;
+          
+      }
+      .box12{
+          width: 100%;
+          
+      }
+      .text4{
+        width: 100%;
+        font-size: 20px;
+        margin-top: 240%;
+      }
+      .subbox31{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        margin-top:50%;
+    }
+    .box13{
+        width: 100%;
+        
+    }
+    .box14{
+        width: 100%;
+        
+    }
+    .box15{
+        width: 100%;
+        
+    }
+    .text5{
+        width: 100%;
+        font-size: 20px;
+        margin-top: 340%;
+    }
+    .subcircle{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 20%;
+    }
+    .circle{
+        width: 90%;
+        height: 500px;
+        border-top-right-radius: unset;
+        border-top-left-radius: unset;
+    }
+    .circle p{
+        font-size:30px;
+        line-height: 40px;  
+      }
+      .sec7{
+        display: flex;
+        flex-direction: column;
+        margin-top: 400%;
+    }
+    .container1{
+        width: 80%;
+        font-size: 25px;
+
+    }
+    .container2{
+        width: 80%;
+        font-size: 20px;
+        border: 1px solid;
+    }
+    .container3{
+        width: 80%;
+        font-size: 20px;
+        border: 1px solid;
+        
+    }
+    .sec8{
+       
+        height: auto;
+        width: 100%;
+        
+    }
+    .text6{
+        display: flex;
+        flex-direction: column;
+
+        width: 100%;
+        margin-top: 50%;
+
+    }
+    .text6 h2{
+        font-size: 35px;
+    }
+    .subcont{
+        display: flex;
+        flex-direction: column;
+    }
+    .cont{
+        width: 100%;
+        height: 400px;
+
+    }
+    .cont1{
+        width: 100%;
+    }
+}
+@media(max-width:576px)
+{
+    .main{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+     
+
+    }
+    .text{
+        width: 100%;
+        height: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .text h2{
+        width: 100%;
+        height: 50px;
+        font-size: 25px;
+    }
+    .subtext{
+        width: 100%;
+        font-size: 20px;
+    }
+    .parent{
+        display: flex;
+        flex-direction: column;
+    }
+    .child{
+        width: 100%;
+        height: 400px;
+    }
+    
+    .child1{
+        width: 100%;
+        height:auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        
+    }
+    .child1 h1{
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .subsec2{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .chid3{
+        width: 90%;
+        height: auto;
+    }
+    .chid3 h1{
+        font-size:45px;
+        line-height:40px;
+    }
+    .chid3 p{
+        font-size: 20px;
+        line-height: normal;
+    }
+    .chid4{
+        width: 90%;
+        
+    }
+    .text2{
+        width: 100%;
+        font-size: 20px;
+        margin-top: 110%;
+      }
+    .subbox{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        margin-top:90%;
+    }
+    .box{
+        width: 100%;
+        
+    }
+    .box2{
+        width: 100%;
+        
+    }
+    .box3{
+        width: 100%;
+        
+    }
+    .box4{
+        width: 100%;
+        
+    }
+    .text3{
+        width: 100%;
+        font-size: 20px;
+        margin-top: 170%;
+      }
+      /*  */
+      .subbox2{
+          display: flex;
+          flex-direction: column;
+          width: 80%;
+          margin-top:70%;
+      }
+      .box10{
+          width: 100%;
+          
+      }
+      .box11{
+          width: 100%;
+          
+      }
+      .box12{
+          width: 100%;
+          
+      }
+      .text4{
+        width: 100%;
+        font-size: 20px;
+        margin-top: 300%;
+      }
+      .subbox31{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        margin-top:70%;
+    }
+    .box13{
+        width: 100%;
+        
+    }
+    .box14{
+        width: 100%;
+        
+    }
+    .box15{
+        width: 100%;
+        
+    }
+    .text5{
+        width: 100%;
+        font-size: 20px;
+        margin-top: 430%;
+    }
+    .subcircle{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 20%;
+    }
+    .circle{
+        width: 90%;
+        height: 500px;
+        border-top-right-radius: unset;
+        border-top-left-radius: unset;
+    }
+    .circle p{
+        font-size:30px;
+        line-height: 40px;  
+      }
+      .sec7{
+        display: flex;
+        flex-direction: column;
+        margin-top: 500%;
+    }
+    .container1{
+        width: 80%;
+        font-size: 25px;
+
+    }
+    .container2{
+        width: 80%;
+        font-size: 20px;
+        border: 1px solid;
+    }
+    .container3{
+        width: 80%;
+        font-size: 20px;
+        border: 1px solid;
+        
+    }
+    .sec8{
+       
+        height: auto;
+        width: 100%;
+        
+    }
+    .text6{
+        display: flex;
+        flex-direction: column;
+
+        width: 100%;
+        margin-top: 50%;
+
+    }
+    .text6 h2{
+        font-size: 35px;
+    }
+    .subcont{
+        display: flex;
+        flex-direction: column;
+    }
+    .cont{
+        width: 100%;
+        height: 400px;
+
+    }
+    .cont1{
+        width: 100%;
+    }
+}
+@media(max-width:480px)
+{
+    .main{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+     
+
+    }
+    .text{
+        width: 100%;
+        height: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .text h2{
+        width: 100%;
+        height: 50px;
+        font-size: 25px;
+    }
+    .subtext{
+        width: 100%;
+        font-size: 20px;
+    }
+    .parent{
+        display: flex;
+        flex-direction: column;
+    }
+    .child{
+        width: 100%;
+        height: 400px;
+    }
+    
+    .child1{
+        width: 100%;
+        height:auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        
+    }
+    .child1 h1{
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .subsec2{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .chid3{
+        width: 90%;
+        height: auto;
+    }
+    .chid3 h1{
+        font-size:45px;
+        line-height:40px;
+    }
+    .chid3 p{
+        font-size: 20px;
+        line-height: normal;
+    }
+    .chid4{
+        width: 90%;
+        
+    }
+    .text2{
+      width: 100%;
+      font-size: 20px;
+      margin-top: 90%;
+    }
+    /*  */
+    .subbox{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        margin-top:110%;
+    }
+    .box{
+        width: 100%;
+        
+    }
+    .box2{
+        width: 100%;
+        
+    }
+    .box3{
+        width: 100%;
+        
+    }
+    .box4{
+        width: 100%;
+        
+    }
+    .text3{
+        width: 100%;
+        font-size: 20px;
+        margin-top: 200%;
+      }
+      /*  */
+      .subbox2{
+          display: flex;
+          flex-direction: column;
+          width: 80%;
+          margin-top:80%;
+      }
+      .box10{
+          width: 100%;
+          
+      }
+      .box11{
+          width: 100%;
+          
+      }
+      .box12{
+          width: 100%;
+          
+      }
+      .text4{
+        width: 100%;
+        font-size: 20px;
+        margin-top: 350%;
+      }
+      .subbox31{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        margin-top:80%;
+    }
+    .box13{
+        width: 100%;
+        
+    }
+    .box14{
+        width: 100%;
+        
+    }
+    .box15{
+        width: 100%;
+        
+    }
+    .text5{
+        width: 100%;
+        font-size: 20px;
+        margin-top: 500%;
+    }
+    .subcircle{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 30%;
+    }
+    .circle{
+        width: 90%;
+        height: 500px;
+        border-top-right-radius: unset;
+        border-top-left-radius: unset;
+    }
+    .circle p{
+        font-size:30px;
+        line-height: 40px;  
+      }
+    .sec7{
+        display: flex;
+        flex-direction: column;
+        margin-top: 600%;
+    }
+    .container1{
+        width: 80%;
+        font-size: 25px;
+
+    }
+    .container2{
+        width: 80%;
+        font-size: 20px;
+        border: 1px solid;
+    }
+    .container3{
+        width: 80%;
+        font-size: 20px;
+        border: 1px solid;
+
+    }
+    .sec8{
+       
+        height: auto;
+        width: 100%;
+        
+    }
+    .text6{
+        display: flex;
+        flex-direction: column;
+
+        width: 100%;
+        margin-top: 50%;
+
+    }
+    .text6 h2{
+        font-size: 35px;
+    }
+    .subcont{
+        display: flex;
+        flex-direction: column;
+    }
+    .cont{
+        width: 100%;
+        height: 400px;
+
+    }
+    .cont1{
+        width: 100%;
+    }
+ }

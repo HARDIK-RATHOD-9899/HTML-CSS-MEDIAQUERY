@@ -1,0 +1,442 @@
+@media(max-width:980px)
+{
+    header{
+        display: flex;
+        flex-direction: column;
+    }
+    .logo2{
+        width: 100%;
+    }
+    nav{
+        width: 100%;
+    }
+    .subimg{
+        padding-left:170px;
+    }
+
+    .img1{
+        width: 80%;
+        height: 300px;
+    }
+    .img2{
+        width: 80%;        
+        height: 300px;
+    }
+    .textbox{
+        display:none;
+    }
+    .sec2{
+        display: flex;
+        flex-direction: column;
+    }
+    .imgsec{
+        width:70%;
+    }
+    .textsec{
+        width: 70%;
+        height: auto;       
+    }
+    .sec4{
+        display: flex;
+        flex-direction: column;
+    }
+    .imgg{
+        width: 80%;
+    }
+    
+    .imgg2{
+        width: 80%;
+    }
+    
+    .imgg3{
+        width: 80%;
+    }
+    .sec5{
+        display: flex;
+        flex-direction: column;
+    }
+    .parts1{
+        width: 100%;
+        height: 400px;
+    }
+    
+    .parts2{
+        width: 100%;
+    }
+    .sec6{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .parts4{
+        width: 70%;
+        font-size: 35px;
+        height: auto;
+    }
+    .parts3{
+        width: 100%;
+
+    }
+    .sec7{
+        display: flex;
+        flex-direction: column;
+    }
+    .black{
+        width: 100%;
+        height: auto;
+    }
+    .black h5{
+        font-size: 40px;
+    }
+    .black h1{
+        font-size: 50px;
+    }
+    .black p{
+        font-size: 30px;
+
+    }
+
+    .black1{
+        width: 100%;
+        height: 500px;
+    }
+}
+@media(max-width:720px)
+{
+    header{
+        display: flex;
+        flex-direction: column;
+    }
+    .logo2{
+        width: 100%;
+    }
+    nav{
+        width: 100%;
+    }
+    .subimg{
+        padding-left:100px;
+    }
+    .img1{
+        width: 80%;
+        height: 300px;
+    }
+    .img2{
+        width: 80%;        
+        height: 300px;
+    }
+    .textbox{
+        display: none;
+    }
+    .sec2{
+        display: flex;
+        flex-direction: column;
+    }
+    .imgsec{
+        width:80%;
+    }
+    .textsec{
+        width: 80%;
+        
+    }
+    .subimg1{
+        display: flex;
+        flex-direction: column;
+    }
+    .secimg1{
+        width: 100%;
+    }
+    .secimg2{
+        width: 100%;
+    }
+    .sec4{
+        display: flex;
+        flex-direction: column;
+    }
+    .imgg{
+        width: 60%;
+    }
+    
+    .imgg2{
+        width: 60%;
+    }
+    
+    .imgg3{
+        width: 60%;
+    }
+    .sec5{
+        display: flex;
+        flex-direction: column;
+    }
+    .parts1{
+        width: 100%;
+        height: 400px;
+    }
+    
+    .parts2{
+        width: 100%;
+    }
+    .sec6{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .parts4{
+        width: 80%;
+        font-size: 35px;
+        height: auto;
+    }
+    .parts3{
+        width: 100%;
+
+    }
+    .sec7{
+        display: flex;
+        flex-direction: column;
+    }
+    .black{
+        width: 100%;
+        height: auto;
+    }
+    .black h5{
+        font-size: 40px;
+    }
+    .black h1{
+        font-size: 50px;
+    }
+    .black p{
+        font-size: 30px;
+
+    }
+
+    .black1{
+        width: 100%;
+        height: 500px;
+    }
+}
+@media(max-width:576px)
+{
+    header{
+        display: flex;
+        flex-direction: column;
+    }
+    .logo2{
+        width: 100%;
+    }
+    nav{
+        width: 100%;
+    }
+    .subimg{
+        padding-left:0px;
+    }
+    .img1{
+        width: 100%;
+        height: 300px;
+    }
+    .img2{
+        width: 100%;        
+        height: 300px;
+    }
+    .textbox{
+        display: none;
+    }
+    .sec2{
+        display: flex;
+        flex-direction: column;
+    }
+    .imgsec{
+        width:100%;
+    }
+    .textsec{
+        width: 100%;
+        
+    }
+    .subimg1{
+        display: flex;
+        flex-direction: column;
+    }
+    .secimg1{
+        width: 100%;
+    }
+    .secimg2{
+        width: 100%;
+    }
+    .sec4{
+        display: flex;
+        flex-direction: column;
+    }
+    .imgg{
+        width: 100%;
+    }
+    
+    .imgg2{
+        width: 100%;
+    }
+    
+    .imgg3{
+        width: 100%;
+    }
+    .sec5{
+        display: flex;
+        flex-direction: column;
+    }
+    .parts1{
+        width: 100%;
+        height: 400px;
+        font-size: 35px;
+    }
+    
+    .parts2{
+        width: 100%;
+    }
+    .sec6{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .parts4{
+        width: 100%;
+        font-size: 35px;
+        height: auto;
+    }
+    .parts3{
+        width: 100%;
+
+    }
+    .sec7{
+        display: flex;
+        flex-direction: column;
+    }
+    .black{
+        width: 100%;
+        height: auto;
+    }
+    .black h5{
+        font-size: 40px;
+    }
+    .black h1{
+        font-size: 50px;
+    }
+    .black p{
+        font-size: 30px;
+
+    }
+
+    .black1{
+        width: 100%;
+        height: 500px;
+    }
+}
+@media(max-width:480px)
+{
+    header{
+        display: flex;
+        flex-direction: column;
+    }
+    .logo2{
+        width: 100%;
+    }
+    nav{
+        width: 100%;
+    }
+    .subimg{
+        padding-left:0px;
+    }
+    .img1{
+        width: 100%;
+        height: 300px;
+    }
+    .img2{
+        width: 100%;        
+        height: 300px;
+    }
+    .textbox{
+        display: none;
+    }
+    .sec2{
+        display: flex;
+        flex-direction: column;
+    }
+    .imgsec{
+        width:100%;
+    }
+    .textsec{
+        width: 100%;
+
+    }
+    .subimg1{
+        display: flex;
+        flex-direction: column;
+    }
+    .secimg1{
+        width: 100%;
+        height: 400px;
+    }
+    .secimg2{
+        width: 100%;
+        height: 600px;
+    }
+    .sec4{
+        display: flex;
+        flex-direction: column;
+    }
+    .imgg{
+        width: 100%;
+    }
+    
+    .imgg2{
+        width: 100%;
+    }
+    
+    .imgg3{
+        width: 100%;
+    }
+    .sec5{
+        display: flex;
+        flex-direction: column;
+    }
+    .parts1{
+        width: 100%;
+        height: 400px;
+    }
+    
+    .parts2{
+        width: 100%;
+    }
+    .sec6{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .parts4{
+        width: 100%;
+        font-size: 35px;
+        height: auto;
+    }
+    .parts3{
+        width: 100%;
+
+    }
+    .sec7{
+        display: flex;
+        flex-direction: column;
+    }
+    .black{
+        width: 100%;
+        height: auto;
+    }
+    .black h5{
+        font-size: 40px;
+    }
+    .black h1{
+        font-size: 50px;
+    }
+    .black p{
+        font-size: 30px;
+
+    }
+
+    .black1{
+        width: 100%;
+        height: 500px;
+    }
+}
